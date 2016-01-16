@@ -433,8 +433,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "END",
-                    "label": "END"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 }
             },
             "w": 4,
@@ -472,6 +472,10 @@
             "h": 4,
             "layers": {
                 "0": {
+                    "key": "LCTRL",
+                    "label": "LCTRL"
+                },
+                "1": {
                     "key": "RIGHT",
                     "label": "\u2192"
                 }
@@ -485,6 +489,10 @@
             "h": 4,
             "layers": {
                 "0": {
+                    "key": "LALT",
+                    "label": "LALT"
+                },
+                "1": {
                     "key": "LEFT",
                     "label": "\u2190"
                 }
@@ -1019,8 +1027,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "PAGEDOWN",
-                    "label": "PGDN"
+                    "key": "RGUI",
+                    "label": "RGUI"
                 },
                 "1": {
                     "key": "CONS:VOLUMEDOWN",
@@ -1066,6 +1074,10 @@
             "h": 4,
             "layers": {
                 "0": {
+                    "key": "RCTRL",
+                    "label": "RCTRL"
+                },
+                "1": {
                     "key": "LEFT",
                     "label": "\u2190"
                 }
@@ -1079,6 +1091,10 @@
             "h": 4,
             "layers": {
                 "0": {
+                    "key": "RALT",
+                    "label": "RALT"
+                },
+                "1": {
                     "key": "DOWN",
                     "label": "\u2193"
                 }

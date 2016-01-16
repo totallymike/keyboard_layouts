@@ -13,6 +13,8 @@ U"4" : U"F4";
 U"3" : U"F3";
 U"2" : U"F2";
 U"1" : U"F1";
+U"FUNCTION5" : U"RIGHT";
+U"FUNCTION4" : U"LEFT";
 U"FUNCTION6" : U"F12";
 U"6" : U"F6";
 U"7" : U"F7";
@@ -21,4 +23,6 @@ U"9" : U"F9";
 U"0" : U"F10";
 U"PAGEUP" : CONS"VOLUMEUP";
 U"PAGEDOWN" : CONS"VOLUMEDOWN";
+U"LEFT" : U"LEFT";
+U"DOWN" : U"DOWN";
 
