@@ -117,8 +117,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "EQUALS",
-                    "label": "="
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 },
                 "2": {
                     "key": "#:flashMode()",
@@ -446,8 +446,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "DELETE",
-                    "label": "DEL"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 }
             },
             "w": 4,
@@ -663,8 +663,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "MINUS",
-                    "label": "-"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 }
             },
             "w": 6,
@@ -1108,8 +1108,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "UP",
-                    "label": "\u2191"
+                    "key": "MINUS",
+                    "label": "-"
                 },
                 "2": {
                     "key": "P.",
@@ -1125,8 +1125,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RIGHT",
-                    "label": "\u2192"
+                    "key": "EQUAL",
+                    "label": "="
                 },
                 "2": {
                     "key": "PENTER",
