@@ -1004,6 +1004,10 @@
                 "0": {
                     "key": "PAGEUP",
                     "label": "PGUP"
+                },
+                "1": {
+                    "key": "CONS:VOLUMEUP",
+                    "label": "VOL+"
                 }
             },
             "w": 4,
@@ -1017,6 +1021,10 @@
                 "0": {
                     "key": "PAGEDOWN",
                     "label": "PGDN"
+                },
+                "1": {
+                    "key": "CONS:VOLUMEDOWN",
+                    "label": "VOL-"
                 }
             },
             "w": 4,
