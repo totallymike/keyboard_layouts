@@ -459,8 +459,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
+                    "key": "SPACE",
+                    "label": "[&nbsp;]"
                 }
             },
             "w": 4,
@@ -532,8 +532,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             },
             "w": 4,
