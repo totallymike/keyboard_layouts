@@ -305,6 +305,10 @@
                 "0": {
                     "key": "LALT",
                     "label": "LALT"
+                },
+                "1": {
+                    "key": "CONS:PAUSEPLAY",
+                    "label": "PL/PS"
                 }
             },
             "w": 4,
@@ -879,6 +883,10 @@
                 "0": {
                     "key": "RALT",
                     "label": "RALT"
+                },
+                "1": {
+                    "key": "CONS:SCANPREVIOUSTRACK",
+                    "label": "PREV"
                 }
             },
             "w": 4,
@@ -892,6 +900,10 @@
                 "0": {
                     "key": "RCTRL",
                     "label": "RCTRL"
+                },
+                "1": {
+                    "key": "CONS:SCANNEXTTRACK",
+                    "label": "NEXT"
                 }
             },
             "w": 4,
