@@ -1111,6 +1111,10 @@
                     "key": "MINUS",
                     "label": "-"
                 },
+                "1": {
+                    "key": "UP",
+                    "label": "\u2191"
+                },
                 "2": {
                     "key": "P.",
                     "label": "P."
@@ -1127,6 +1131,10 @@
                 "0": {
                     "key": "EQUAL",
                     "label": "="
+                },
+                "1": {
+                    "key": "RIGHT",
+                    "label": "\u2192"
                 },
                 "2": {
                     "key": "PENTER",
