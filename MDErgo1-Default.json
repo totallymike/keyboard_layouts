@@ -117,8 +117,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "ESCAPE",
-                    "label": "ESC"
+                    "key": "BACKTICK",
+                    "label": "`"
                 },
                 "2": {
                     "key": "#:flashMode()",
@@ -212,8 +212,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "TAB",
-                    "label": "TAB"
+                    "key": "BACKSLASH",
+                    "label": "\\"
                 }
             },
             "w": 6,
@@ -450,8 +450,12 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "TAB",
+                    "label": "TAB"
+                },
+                "1": {
+                    "key": "DELETE",
+                    "label": "DEL"
                 }
             },
             "w": 4,
@@ -476,8 +480,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 },
                 "1": {
                     "key": "RIGHT",
@@ -667,8 +671,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSLASH",
-                    "label": "\\"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 }
             },
             "w": 6,
@@ -1086,8 +1090,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RCTRL",
-                    "label": "RCTRL"
+                    "key": "RGUI",
+                    "label": "RGUI"
                 },
                 "1": {
                     "key": "LEFT",
