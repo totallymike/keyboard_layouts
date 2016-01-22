@@ -152,15 +152,15 @@ Guide_RM( 6 ) = { 1, 14, KEY_ESC, 0 };
 Guide_RM( 7 ) = { 1, 14, KEY_QUOTE, 0 };
 Guide_RM( 8 ) = { 1, 14, KEY_LALT, 0 };
 Guide_RM( 9 ) = { 1, 14, KEY_K, 0 };
-Guide_RM( 10 ) = { 1, 14, KEY_TAB, 0 };
+Guide_RM( 10 ) = { 1, 14, KEY_LGUI, 0 };
 Guide_RM( 11 ) = { 1, 14, KEY_RALT, 0 };
 Guide_RM( 12 ) = { 1, 14, KEY_5, 0 };
-Guide_RM( 13 ) = { 1, 14, KEY_BACKSLASH, 0 };
-Guide_RM( 14 ) = { 1, 14, KEY_ENTER, 0 };
-Guide_RM( 15 ) = { 1, 14, KEY_D, 0 };
-Guide_RM( 16 ) = { 1, 14, KEY_MINUS, 0 };
-Guide_RM( 17 ) = { 1, 14, KEY_P, 0 };
-Guide_RM( 18 ) = { 1, 14, KEY_BACKTICK, 0 };
+Guide_RM( 13 ) = { 1, 14, KEY_ENTER, 0 };
+Guide_RM( 14 ) = { 1, 14, KEY_D, 0 };
+Guide_RM( 15 ) = { 1, 14, KEY_MINUS, 0 };
+Guide_RM( 16 ) = { 1, 14, KEY_P, 0 };
+Guide_RM( 17 ) = { 1, 14, KEY_BACKTICK, 0 };
+Guide_RM( 18 ) = { 1, 14, KEY_TAB, 0 };
 Guide_RM( 19 ) = { 1, 14, KEY_SPACE, 0 };
 Guide_RM( 20 ) = { 1, 14, KEY_U, 0 };
 Guide_RM( 21 ) = { 1, 14, KEY_S, 0 };
@@ -171,32 +171,32 @@ Guide_RM( 25 ) = { 1, 14, KEY_RSHIFT, 0 };
 Guide_RM( 26 ) = { 1, 14, KEY_H, 0 };
 Guide_RM( 27 ) = { 1, 14, KEY_HOME, 0 };
 Guide_RM( 28 ) = { 1, 14, KEY_COMMA, 0 };
-Guide_RM( 29 ) = { 1, 14, KEY_LGUI, 0 };
-Guide_RM( 30 ) = { 1, 14, KEY_E, 0 };
-Guide_RM( 31 ) = { 1, 14, KEY_PAGE_UP, 0 };
-Guide_RM( 32 ) = { 2, 4, 1, 0, 1, 0 };
-Guide_RM( 33 ) = { 1, 14, KEY_I, 0 };
-Guide_RM( 34 ) = { 1, 14, KEY_W, 0 };
-Guide_RM( 35 ) = { 1, 14, KEY_RGUI, 0 };
-Guide_RM( 36 ) = { 1, 14, KEY_LEFT_BRACKET, 0 };
-Guide_RM( 37 ) = { 1, 14, KEY_O, 0 };
-Guide_RM( 38 ) = { 1, 14, KEY_X, 0 };
-Guide_RM( 39 ) = { 1, 14, KEY_Q, 0 };
-Guide_RM( 40 ) = { 1, 14, KEY_Y, 0 };
-Guide_RM( 41 ) = { 1, 14, KEY_B, 0 };
-Guide_RM( 42 ) = { 1, 14, KEY_PERIOD, 0 };
-Guide_RM( 43 ) = { 1, 14, KEY_Z, 0 };
-Guide_RM( 44 ) = { 1, 14, KEY_N, 0 };
-Guide_RM( 45 ) = { 1, 14, KEY_T, 0 };
-Guide_RM( 46 ) = { 1, 14, KEY_SLASH, 0 };
-Guide_RM( 47 ) = { 1, 14, KEY_9, 0 };
-Guide_RM( 48 ) = { 1, 14, KEY_LSHIFT, 0 };
-Guide_RM( 49 ) = { 1, 14, KEY_1, 0 };
-Guide_RM( 50 ) = { 1, 14, KEY_M, 0 };
-Guide_RM( 51 ) = { 1, 14, KEY_6, 0 };
-Guide_RM( 52 ) = { 1, 14, KEY_R, 0 };
-Guide_RM( 53 ) = { 1, 14, KEY_0, 0 };
-Guide_RM( 54 ) = { 1, 14, KEY_V, 0 };
+Guide_RM( 29 ) = { 1, 14, KEY_E, 0 };
+Guide_RM( 30 ) = { 1, 14, KEY_PAGE_UP, 0 };
+Guide_RM( 31 ) = { 2, 4, 1, 0, 1, 0 };
+Guide_RM( 32 ) = { 1, 14, KEY_I, 0 };
+Guide_RM( 33 ) = { 1, 14, KEY_W, 0 };
+Guide_RM( 34 ) = { 1, 14, KEY_RGUI, 0 };
+Guide_RM( 35 ) = { 1, 14, KEY_LEFT_BRACKET, 0 };
+Guide_RM( 36 ) = { 1, 14, KEY_O, 0 };
+Guide_RM( 37 ) = { 1, 14, KEY_X, 0 };
+Guide_RM( 38 ) = { 1, 14, KEY_Q, 0 };
+Guide_RM( 39 ) = { 1, 14, KEY_Y, 0 };
+Guide_RM( 40 ) = { 1, 14, KEY_B, 0 };
+Guide_RM( 41 ) = { 1, 14, KEY_PERIOD, 0 };
+Guide_RM( 42 ) = { 1, 14, KEY_Z, 0 };
+Guide_RM( 43 ) = { 1, 14, KEY_N, 0 };
+Guide_RM( 44 ) = { 1, 14, KEY_T, 0 };
+Guide_RM( 45 ) = { 1, 14, KEY_SLASH, 0 };
+Guide_RM( 46 ) = { 1, 14, KEY_9, 0 };
+Guide_RM( 47 ) = { 1, 14, KEY_LSHIFT, 0 };
+Guide_RM( 48 ) = { 1, 14, KEY_1, 0 };
+Guide_RM( 49 ) = { 1, 14, KEY_M, 0 };
+Guide_RM( 50 ) = { 1, 14, KEY_6, 0 };
+Guide_RM( 51 ) = { 1, 14, KEY_R, 0 };
+Guide_RM( 52 ) = { 1, 14, KEY_0, 0 };
+Guide_RM( 53 ) = { 1, 14, KEY_V, 0 };
+Guide_RM( 54 ) = { 1, 14, KEY_BACKSLASH, 0 };
 Guide_RM( 55 ) = { 1, 14, KEY_L, 0 };
 Guide_RM( 56 ) = { 1, 14, KEY_C, 0 };
 Guide_RM( 57 ) = { 1, 14, KEY_4, 0 };
@@ -510,13 +510,13 @@ const TriggerMacro TriggerMacroList[] = {
 	Define_TM( 11, 10 ),
 	Define_TM( 12, 11 ),
 	Define_TM( 13, 12 ),
-	Define_TM( 14, 13 ),
-	Define_TM( 15, 14 ),
-	Define_TM( 16, 15 ),
-	Define_TM( 17, 16 ),
-	Define_TM( 18, 17 ),
-	Define_TM( 19, 18 ),
-	Define_TM( 20, 13 ),
+	Define_TM( 14, 10 ),
+	Define_TM( 15, 13 ),
+	Define_TM( 16, 14 ),
+	Define_TM( 17, 15 ),
+	Define_TM( 18, 16 ),
+	Define_TM( 19, 17 ),
+	Define_TM( 20, 18 ),
 	Define_TM( 21, 19 ),
 	Define_TM( 22, 20 ),
 	Define_TM( 23, 21 ),
@@ -527,36 +527,36 @@ const TriggerMacro TriggerMacroList[] = {
 	Define_TM( 28, 26 ),
 	Define_TM( 29, 27 ),
 	Define_TM( 30, 28 ),
-	Define_TM( 31, 29 ),
-	Define_TM( 32, 30 ),
-	Define_TM( 33, 31 ),
-	Define_TM( 34, 29 ),
-	Define_TM( 35, 32 ),
-	Define_TM( 36, 33 ),
-	Define_TM( 37, 34 ),
-	Define_TM( 38, 35 ),
-	Define_TM( 39, 36 ),
-	Define_TM( 40, 37 ),
-	Define_TM( 41, 38 ),
-	Define_TM( 42, 39 ),
-	Define_TM( 43, 40 ),
-	Define_TM( 44, 41 ),
-	Define_TM( 45, 42 ),
-	Define_TM( 46, 43 ),
-	Define_TM( 47, 44 ),
-	Define_TM( 48, 45 ),
-	Define_TM( 49, 46 ),
-	Define_TM( 50, 47 ),
-	Define_TM( 51, 48 ),
-	Define_TM( 52, 49 ),
-	Define_TM( 53, 50 ),
-	Define_TM( 54, 51 ),
-	Define_TM( 55, 52 ),
-	Define_TM( 56, 53 ),
-	Define_TM( 57, 18 ),
-	Define_TM( 58, 54 ),
+	Define_TM( 31, 4 ),
+	Define_TM( 32, 29 ),
+	Define_TM( 33, 30 ),
+	Define_TM( 34, 10 ),
+	Define_TM( 35, 31 ),
+	Define_TM( 36, 32 ),
+	Define_TM( 37, 33 ),
+	Define_TM( 38, 34 ),
+	Define_TM( 39, 35 ),
+	Define_TM( 40, 36 ),
+	Define_TM( 41, 37 ),
+	Define_TM( 42, 38 ),
+	Define_TM( 43, 39 ),
+	Define_TM( 44, 40 ),
+	Define_TM( 45, 41 ),
+	Define_TM( 46, 42 ),
+	Define_TM( 47, 43 ),
+	Define_TM( 48, 44 ),
+	Define_TM( 49, 45 ),
+	Define_TM( 50, 46 ),
+	Define_TM( 51, 47 ),
+	Define_TM( 52, 48 ),
+	Define_TM( 53, 49 ),
+	Define_TM( 54, 50 ),
+	Define_TM( 55, 51 ),
+	Define_TM( 56, 52 ),
+	Define_TM( 57, 17 ),
+	Define_TM( 58, 53 ),
 	Define_TM( 59, 11 ),
-	Define_TM( 60, 24 ),
+	Define_TM( 60, 54 ),
 	Define_TM( 61, 4 ),
 	Define_TM( 62, 55 ),
 	Define_TM( 63, 56 ),
@@ -567,11 +567,11 @@ const TriggerMacro TriggerMacroList[] = {
 	Define_TM( 68, 61 ),
 	Define_TM( 69, 62 ),
 	Define_TM( 70, 59 ),
-	Define_TM( 71, 29 ),
-	Define_TM( 72, 35 ),
+	Define_TM( 71, 4 ),
+	Define_TM( 72, 34 ),
 	Define_TM( 73, 63 ),
 	Define_TM( 74, 64 ),
-	Define_TM( 75, 35 ),
+	Define_TM( 75, 34 ),
 	Define_TM( 76, 65 ),
 	Define_TM( 77, 66 ),
 	Define_TM( 78, 67 ),
