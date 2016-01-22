@@ -437,8 +437,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "END",
+                    "label": "END"
                 }
             },
             "w": 4,
@@ -497,8 +497,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 },
                 "1": {
                     "key": "LEFT",
@@ -514,8 +514,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "LALT",
+                    "label": "LALT"
                 }
             },
             "w": 4,
@@ -1043,8 +1043,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RGUI",
-                    "label": "RGUI"
+                    "key": "PAGEDOWN",
+                    "label": "PGDN"
                 },
                 "1": {
                     "key": "CONS:VOLUMEDOWN",
